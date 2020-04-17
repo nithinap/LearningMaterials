@@ -4,7 +4,7 @@ There will be two main branches with infinite lifetime:
 `master` (origin/master) - with its HEAD always at a production-ready state
 `develop` - with its HEAD reflecting the latest delivered development changes for the next release
 
-![git merge no off] (https://github.com/nithinap/LearningMaterials/blob/master/git-merge-noOff.jpg)
+![git merge no off](https://github.com/nithinap/LearningMaterials/blob/master/git-merge-noOff.jpg)
 
 ### Support Branches
 #### Feature: 
